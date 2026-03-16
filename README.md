@@ -1,4 +1,4 @@
-# Esp32-IOT-WMN(Weather Music Notes):
+# Esp32-IOT-WMN(Weather Music Notes): (Incompleted)
 
 The component that i have used are ESP32, 0.96 inch Oled and DFplayer mini module
 
